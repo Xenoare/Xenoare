@@ -1,7 +1,6 @@
 ### Hi there 👋, Arsyadana Est.
 #### *Data Scientist (Sooner)*
-![*Data Scientist (Sooner)*](https://1.bp.blogspot.com/-k5VlW3bZhtI/V1yvuB28O-I/AAAAAAAABXM/zKRiyts4z785SSwtV6DBd9Pbr6Xrew77QCLcB/s1600/helloworld.gif)
-
+![*Data Scientist (Sooner)*](https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 I'm Arsyadana Estu (AdmiralCeb. A self study Developer, I really enjoyoing and consider about Programming and Design, especially about MERN FullStack, Glad to know you all
 
 Skills: REACT / JS / HTML / CSS
